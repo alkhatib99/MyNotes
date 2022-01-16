@@ -22,7 +22,9 @@ Date: "1/16/2022"
 
 ---
  - ###  <ins>Summary: </ins>                 
-       Recently graduated with a excellent degree in Computer Science with a solid background in algorithms, data structures and best coding practices. I am an IT Developer with experience in mobile, web, databases. Creative thinker, who craves a challenge and who is not afraid to work outside his comfort zone. I am a motivated team player who consistently aims to push goals and exceed expectations  
+     -  Recently graduated with a excellent degree in Computer Science with a solid background in algorithms, data structures and best coding practices. 
+     - I am an IT Developer with experience in mobile, web, databases. 
+     - Creative thinker, who craves a challenge and who is not afraid to work outside his comfort zone. I am a motivated team player who consistently aims to push goals and exceed expectations  
 ---
 - ### <ins> Experience: </ins> 
 
@@ -81,16 +83,23 @@ Date: "1/16/2022"
 ## <ins>Outcomes:</ins>
 
 > - The most statment have my attention that ' intoducing a new bug by fixing another one '.
-> - the purpose of any software that's how can help.
+> - The purpose of any software that's how can help.
+
 > - The design of a sofware should be easy for developer and helpful for others.
+
 > - The good developer shoul dfully understand the what they are doing.
 > - The good developer create things easy to understand and that's make bugs eassy to shake out.
+
 > - Control complexity not to create it.
 > - reduce the effort of maintenance than it is to reduce the effort of implementation.
-> - The clean make your code easy  to understand. Will not forcing developers to relearn the way your system works every time they look at a new piece of it. 
+
+> - The clean code make your code easy  to understand. Will not forcing developers to relearn the way your system works every time they look at a new piece of it. 
+
 > - The changes that will bring you a lot of value and require little effort are better than those that will bring little value and require a lot of effort.
+
 > - Think before acting.
 > - Start small, improve it.
+
 > - Don’t predict to future. Be only as generic as you know you need to be right now.
 > - Don’t reinvent the wheel.
 
@@ -111,3 +120,4 @@ Date: "1/16/2022"
 
 > - Always seek advice.
 
+### E-Sigiture: Abedalqadder Alkhatib.
